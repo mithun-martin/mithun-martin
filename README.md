@@ -1,4 +1,10 @@
 
+## 🧑‍💻 Hi, I'm Mithun
+
+- 🎓 Computer Science Engineering student at SRM Institute of Science and Technology  
+- 🔧 Skilled in **Python**, **Java**, **Spring Boot**, **Flask**, **React**
+- 🧠 Exploring **Machine Learning**, **Computer Vision**, and **AI-powered apps**
+- 💼 Actively working on full-stack projects, hackathons, and coding contests
 
 
 
